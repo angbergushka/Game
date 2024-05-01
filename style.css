@@ -1,0 +1,14 @@
+
+.form-group {
+    margin-inline: auto;
+    padding: 5px;
+    width: auto;
+}
+
+label {
+    padding: 0px 10px 0px 0px;
+}
+
+#btnRetry {
+    text-decoration: none;
+    color: rgb(2, 79, 194)};
